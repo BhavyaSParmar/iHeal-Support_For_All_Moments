@@ -51,7 +51,7 @@ The design process involved several iterations, including:
 - 
 ---
 
-Video Explanation
+### **Video Explanation**
 I have prepared a detailed video explanation of the iHeal app, which walks through the design, features, and use cases of the app. You can watch the video using the link below:
 
 https://www.youtube.com/watch?v=13OUKvmjCJA
@@ -59,6 +59,5 @@ https://www.youtube.com/watch?v=13OUKvmjCJA
 ---
 
 ### **Project Links**
-1. **Figma Prototype:** [Project 1 Prototype](https://www.figma.com/file/266-1800tBt-5MyeDUUEBI0d7Xi-0)  
-2. **Portfolio Page:** [Project Portfolio](https://www.figma.com/file/XXXXXXXXX/Portfolio-Page)  
-3. **GitHub Repository:** [iHeal – Support for All Moments](https://github.com/BhavyaSParmar/iHeal-Support_For_All_Moments)
+
+https://www.figma.com/proto/PODbisSIfBsOsvnyb8RCVy/BhavyaParmar_Fall2024?node-id=266-1800&t=uAoNTaoVI1dbEf3F-1&scaling=min-zoom&content-scaling=fixed&page-id=262%3A43&starting-point-node-id=266%3A1800
