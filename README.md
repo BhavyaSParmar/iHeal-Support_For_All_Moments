@@ -1,8 +1,3 @@
-# iHeal-Support_For_All_Moments
-Sure! Here's a well-structured and detailed description of your project, formatted for GitHub:
-
----
-
 ## **Project: iHeal – Support for All Moments**
 
 ### **Project Overview**
@@ -60,7 +55,3 @@ The design process involved several iterations, including:
 1. **Figma Prototype:** [Project 1 Prototype](https://www.figma.com/file/266-1800tBt-5MyeDUUEBI0d7Xi-0)  
 2. **Portfolio Page:** [Project Portfolio](https://www.figma.com/file/XXXXXXXXX/Portfolio-Page)  
 3. **GitHub Repository:** [iHeal – Support for All Moments](https://github.com/BhavyaSParmar/iHeal-Support_For_All_Moments)
-
----
-
-Feel free to copy and paste this into your GitHub repository’s `README.md` file. If you need any further changes or additional sections, let me know!
