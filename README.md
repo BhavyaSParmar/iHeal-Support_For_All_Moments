@@ -48,6 +48,13 @@ The design process involved several iterations, including:
 - Expanding the network of wellness consultants to cater to a larger user base.
 - Enhancing the reward system by including redeemable offers and discounts for wellness services.
 - Adding multilingual support to make the app accessible to a broader audience.
+- 
+---
+
+Video Explanation
+I have prepared a detailed video explanation of the iHeal app, which walks through the design, features, and use cases of the app. You can watch the video using the link below:
+
+https://www.youtube.com/watch?v=13OUKvmjCJA
 
 ---
 
