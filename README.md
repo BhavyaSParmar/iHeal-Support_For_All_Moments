@@ -65,7 +65,7 @@ To provide a comprehensive understanding of the iHeal app, I have created a deta
 ### **Project Links**
 - **Figma Prototype:** [View the Prototype](https://www.figma.com/proto/PODbisSIfBsOsvnyb8RCVy/BhavyaParmar_Fall2024?node-id=266-1800&t=uAoNTaoVI1dbEf3F-1&scaling=min-zoom&content-scaling=fixed&page-id=262%3A43&starting-point-node-id=266%3A1800)  
 
----
+---    
 
 ### **Conclusion**
 The **iHeal** project stands as a testament to the power of thoughtful design in promoting mental well-being. By blending intuitive UI/UX design with meaningful features, it offers users a platform for personalized emotional support. With its future potential in AI-driven wellness and multilingual expansion, iHeal aims to make mental health support accessible to a global audience.
