@@ -1,7 +1,8 @@
 ## **Project: iHeal – Support for All Moments**
 
 ### **Project Overview**
-The **iHeal** project is a wellness app designed to provide emotional and mental support to individuals during challenging moments. Its core mission is to foster a supportive environment where users can seek personalized care from trained wellness consultants. By focusing on a user-friendly design and thoughtful features, iHeal aims to promote mental well-being and overall personal growth.
+
+**iHeal** project is a wellness app designed to provide emotional and mental support to individuals during challenging moments. Its core mission is to foster a supportive environment where users can seek personalized care from trained wellness consultants. By focusing on a user-friendly design and thoughtful features, iHeal aims to promote mental well-being and overall personal growth.
 
 The project covers the entire development lifecycle, including conceptualization, UI/UX design, prototyping, and feature implementation. Emphasizing human connection, iHeal offers personalized chat support, wellness workshops, and insightful resources tailored to user needs.
 
